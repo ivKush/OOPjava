@@ -1,9 +1,8 @@
 package homeLesson1;
 
-/**
- * VendMachine
- */
+import java.util.ArrayList;
+
 public interface VendMachine {
-    void getProduct(String name, String volume, String temperature);
+    public void finishProduct(ArrayList<Object> product);
     
 }
