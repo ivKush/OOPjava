@@ -31,7 +31,7 @@ public class Processing extends FuncResult {
                 flag = false;
             }
         }
-        // ((Scanner) scan.sc).close();
+        // ((Scanner) scan.sc).close(); // Найти как закрыть поток.
     }
 
 }

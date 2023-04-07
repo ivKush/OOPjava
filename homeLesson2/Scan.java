@@ -2,6 +2,8 @@ package homeLesson2;
 
 import java.util.Scanner;
 
+// Найти как закрыть поток.
+
 public class Scan {
     Processing pr = new Processing();
     public Object sc;
