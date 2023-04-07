@@ -1,6 +1,5 @@
 package lesson3;
 
-import javax.swing.plaf.basic.BasicInternalFrameUI.InternalFramePropertyChangeListener;
 
 public class Student {
     private String name;
