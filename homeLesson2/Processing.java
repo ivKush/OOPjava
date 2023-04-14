@@ -3,7 +3,7 @@ package homeLesson2;
 import java.util.Scanner;
 
 public class Processing extends FuncResult {
-
+    
     public void Start() {
 
         Sourse sourse = new Sourse();
@@ -11,6 +11,7 @@ public class Processing extends FuncResult {
         System.out.println("Для выхода - exit");
         System.out.println();
         System.out.println("Начало работы:");
+        // Scanner sc = new Scanner(System.in);
         boolean flag = true;
         sourse.setNum(scan.scannerNum());
         while (flag) {
@@ -31,7 +32,7 @@ public class Processing extends FuncResult {
                 flag = false;
             }
         }
-        // ((Scanner) scan.sc).close();
+        
     }
 
 }

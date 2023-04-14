@@ -1,4 +1,4 @@
-package lesson3;
+package homeLesson3;
 
 import java.util.Comparator;
 
@@ -15,4 +15,5 @@ public class StudentComporator implements Comparator<Student> {
             return 1;
         return 0;
     }
+   
 }

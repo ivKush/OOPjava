@@ -5,8 +5,9 @@ import java.util.Scanner;
 // Найти как закрыть поток.
 
 public class Scan {
-    Processing pr = new Processing();
-    public Object sc;
+    // Processing pr = new Processing();
+    // public Object sc;
+
     
     boolean isNum(String arg) {
         try {
