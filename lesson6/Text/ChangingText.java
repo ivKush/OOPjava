@@ -3,6 +3,7 @@ package lesson6.Text;
 public class ChangingText {
 
     Text text;
+    
     public ChangingText(Text text) {
         this.text = text;
     }
