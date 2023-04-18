@@ -10,6 +10,9 @@ import homeLesson6.product.MineralWater;
 //    которые рефакторим, какой принцип применяем и почему
 
 public class Main {
+    /*
+     * Main теперь обращается только к одному классу UserController 
+     */
 
     public static void main(String[] args) {
         

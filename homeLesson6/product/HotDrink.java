@@ -3,10 +3,7 @@ package homeLesson6.product;
 public class HotDrink extends Drink {
 
     private int temperature;
-    private Drink drink;
-    // private float value;
-    // private String name;
-
+    
     public HotDrink(String name, float value, int temperature) {
         super(name, value);
         this.temperature = temperature;

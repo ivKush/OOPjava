@@ -1,4 +1,7 @@
 package homeLesson6.product;
+/*
+ * Добавил еще один продукт не изменяя остального функционала
+ */
 
 public class MineralWater extends Drink {
 

@@ -1,6 +1,8 @@
 package homeLesson6.controller;
+/*
+ * Добавил контроллер, чтоб разбить связь с общей логикой
+ */
 
-import java.util.ArrayList;
 
 import homeLesson6.model.DrinkMachine;
 import homeLesson6.product.Drink;
