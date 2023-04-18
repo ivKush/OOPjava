@@ -1,9 +1,8 @@
-package homeLesson6;
-
+package homeLesson6.product;
 
 public class Drink {
-    private String name;
-    private float value;
+    protected String name;
+    protected float value;
 
     public Drink(String name, float value) {
         this.name = name;
@@ -26,6 +25,7 @@ public class Drink {
         this.value = value;
     }
 
+    @Override
     public String toString() {
         return String.format("%s  %.1f", name, value);
     }
