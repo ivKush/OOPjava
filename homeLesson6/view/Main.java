@@ -11,7 +11,10 @@ import homeLesson6.product.MineralWater;
 
 public class Main {
     /*
-     * Main теперь обращается только к одному классу UserController 
+     * Разбил структуру по пакетам
+     * Добавил контроллер
+     * Main теперь обращается только к одному классу UserController без доступа к основной логике
+     * Теперь можно добавлять новые продукты не меняя всей логики
      */
 
     public static void main(String[] args) {

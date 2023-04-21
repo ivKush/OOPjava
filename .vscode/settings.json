@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./homeLesson7/product",
+        "./homeLesson7/model",
+        "./homeLesson7/controller"
+    ]
+}
