@@ -1,8 +1,8 @@
-// package homeLesson4;
+package homeLesson4;
 
 
-// public interface VendMachine {
+public interface VendMachine {
 
-//     public void finishProduct();
+    public void finishProduct();
     
-// }
+}
